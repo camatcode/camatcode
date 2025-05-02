@@ -18,7 +18,7 @@
 * <a href="https://www.meritalk.com/articles/nga-seeks-contractor-to-support-geoint-data-analytics-cloud/" target="_blank" rel="noopener noreferrer">☁️ GDAC</a> - An Ultra Large Scale cloud framework deployed at National Geospatial Intelligence Agency
 * <a href="https://en.wikipedia.org/wiki/TransApps" target="_blank" rel="noopener noreferrer">🪖 TransApps</a> - A mobile application suite used by the US military
 
-### 💬 Contact 
+### 💬 Get in touch 
 * Code: <a href="mailto:cam.cook.codes@gmail.com" target="_blank" rel="noopener noreferrer">cam.cook.codes AT gmail</a>
 * Opportunities: <a href="mailto:cam.cook.hire@gmail.com" target="_blank" rel="noopener noreferrer">cam.cook.hire AT gmail</a>
 *   <a href="https://mastodon.social/@scrum_log" target="_blank" rel="noopener noreferrer">
