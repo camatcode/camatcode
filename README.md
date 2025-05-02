@@ -18,11 +18,10 @@ A lot of my work has been deployed in high security environments - so my contrib
 
 
 ### 💬 Contact 
-* Code Contact: cam.cook.codes AT gmail
-* Opportunities Contact: cam.cook.hire AT gmail
+* Code: cam.cook.codes AT gmail
+* Opportunities: cam.cook.hire AT gmail
 *   <a href="https://mastodon.social/@scrum_log">
     <img alt="Mastodon Follow" src="https://img.shields.io/badge/mastodon-%40scrum_log%40mastodon.social-purple?color=6364ff">
-
   </a>
 
 Into: #engineering, #tech, #weaving, #knitting, #beekeeping, #photography, #elixir
