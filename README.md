@@ -13,8 +13,10 @@ Former:
 
 A lot of my work has been deployed in high security environments - so my contributions have been behind-the-scenes. I'm working on fixing that.
 
-### 📐 Projects I'm Proud of
+### 📐 I've been behind
 * 📷 [Studio CMS](https://studiocms.io/) - A photography CMS using Phoenix Live View, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
+* ☁️ [GDAC](https://www.meritalk.com/articles/nga-seeks-contractor-to-support-geoint-data-analytics-cloud/) - An Ultra Large Scale cloud framework deployed at National Geospatial Intelligence Agency
+* 🪖 [TransApps](https://en.wikipedia.org/wiki/TransApps) - A mobile application suite used by the US military
 
 
 ### 💬 Contact 
