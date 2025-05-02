@@ -13,7 +13,7 @@ Former:
 
 A lot of my work has been deployed in high security environments - so my contributions have been a little behind-the-scenes. I'm working on fixing that.
 
-### Projects I'm Proud of
+### 📐 Projects I'm Proud of
 * 📷 [Studio CMS](https://studiocms.io/) - A photography CMS using Phoenix Live View, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
 
 
