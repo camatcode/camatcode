@@ -1,18 +1,17 @@
 # 👋 Hi, I'm Cam
 
-👋 FOSS tech and engineering guy 🏳️‍🌈
+✨ FOSS tech and engineering guy 🏳️‍🌈
 
 📍 Washington, DC area
 
 ### ⌨️ Work 
 
-**Current**:
-👀 Looking for new roles
-
-**Former**:
-* 💻 Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a> (15yr)
-* 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a> (2yr)
-* 🎓 <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (CS '13)
+* **Current**:
+  * 👀 Looking for new roles
+* **Former**:
+  * 💻 Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a> (15yr)
+  * 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a> (2yr)
+  * 🎓 <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (CS '13)
 
 ### 📐 I've been behind
 * <a href="https://studiocms.io/" target="_blank" rel="noopener noreferrer">📷 StudioCMS</a> - A photography CMS using Phoenix Live View, Tailwind CSS, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
