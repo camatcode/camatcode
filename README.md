@@ -7,7 +7,7 @@ Current:
 
 
 Former:
-* 💻 Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a>(15yr)
+* 💻 Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a> (15yr)
 * 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a> (2yr)
 * 👨‍🎓 <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (CS '13)
 
