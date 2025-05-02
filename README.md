@@ -13,11 +13,16 @@ Former:
 
 A lot of my work has been deployed in high security environments - so my contributions have been a little behind-the-scenes. I'm working on fixing that.
 
-Projects I'm Proud of:
+### Projects I'm Proud of
 * 📷 [Studio CMS](https://studiocms.io/) - A photography CMS using Phoenix Live View, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
 
 
-Code Contact: [cam.cook.codes AT gmail.com](mailto:cam.cook.codes@gmail.com]
-Opportunities Contact: [cam.cook.hire AT gmail.com](mailto:cam.cook.hire@gmail.com]
+### 💬 Contact 
+* Code Contact: cam.cook.codes AT gmail
+* Opportunities Contact: cam.cook.hire AT gmail
+*   <a href="https://mastodon.social/@scrum_log">
+    <img alt="Mastodon Follow" src="https://img.shields.io/badge/mastodon-%40scrum_log%40mastodon.social-purple?color=6364ff">
+
+  </a>
 
 Into: #engineering, #tech, #weaving, #knitting, #beekeeping, #photography, #elixir
