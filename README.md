@@ -31,5 +31,5 @@
 * Code: <a href="mailto:cam.cook.codes@gmail.com" target="_blank" rel="noopener noreferrer">cam.cook.codes AT gmail</a>
 * Opportunities: <a href="mailto:cam.cook.hire@gmail.com" target="_blank" rel="noopener noreferrer">cam.cook.hire AT gmail</a>
 *   <a href="https://mastodon.social/@scrum_log" target="_blank" rel="noopener noreferrer">
-    <img alt="Mastodon Follow" src="https://img.shields.io/badge/mastodon-%40scrum_log%40mastodon.social-purple?color=6364ff">
+    <img alt="Mastodon Follow" src="https://img.shields.io/badge/mastodon-%40scrum__log%40mastodon.social-purple?color=6364ff">
   </a>
