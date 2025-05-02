@@ -16,7 +16,7 @@ Former:
 A lot of my work has been deployed in high security environments - so my contributions have been behind-the-scenes. I'm working on fixing that.
 
 ### 📐 I've been behind
-* <a href="https://studiocms.io/" target="_blank" rel="noopener noreferrer">📷 StudioCMS</a> - A photography CMS using Phoenix Live View, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
+* <a href="https://studiocms.io/" target="_blank" rel="noopener noreferrer">📷 StudioCMS</a> - A photography CMS using Phoenix Live View, Tailwind CSS, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
 * <a href="https://www.meritalk.com/articles/nga-seeks-contractor-to-support-geoint-data-analytics-cloud/" target="_blank" rel="noopener noreferrer">☁️ GDAC</a> - An Ultra Large Scale cloud framework deployed at National Geospatial Intelligence Agency
 * <a href="https://en.wikipedia.org/wiki/TransApps" target="_blank" rel="noopener noreferrer">🪖 TransApps</a> - A mobile application suite used by the US military
 
