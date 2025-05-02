@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Cam
+<h1 align="center">👋 Hi, I'm Cam</h1>
+
+### 
 
 ✨ FOSS tech and engineering guy 🏳️‍🌈
 
 📍 Washington, DC area
+
+### 
 
 ### ⌨️ Work 
 
@@ -13,10 +17,14 @@
   * 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a> (2yr)
   * 🎓 <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (CS '13)
 
+### 
+
 ### 📐 I've been behind
 * <a href="https://studiocms.io/" target="_blank" rel="noopener noreferrer">📷 StudioCMS</a> - A photography CMS using Phoenix Live View, Tailwind CSS, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
 * <a href="https://www.meritalk.com/articles/nga-seeks-contractor-to-support-geoint-data-analytics-cloud/" target="_blank" rel="noopener noreferrer">☁️ GDAC</a> - An Ultra Large Scale cloud framework deployed at National Geospatial Intelligence Agency
 * <a href="https://en.wikipedia.org/wiki/TransApps" target="_blank" rel="noopener noreferrer">🪖 TransApps</a> - A mobile application suite used by the US military
+
+### 
 
 ### 💬 Get in touch 
 * Code: <a href="mailto:cam.cook.codes@gmail.com" target="_blank" rel="noopener noreferrer">cam.cook.codes AT gmail</a>
@@ -24,5 +32,3 @@
 *   <a href="https://mastodon.social/@scrum_log" target="_blank" rel="noopener noreferrer">
     <img alt="Mastodon Follow" src="https://img.shields.io/badge/mastodon-%40scrum_log%40mastodon.social-purple?color=6364ff">
   </a>
-
-Into: #engineering, #tech, #weaving, #knitting, #beekeeping, #photography, #elixir
