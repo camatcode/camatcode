@@ -10,7 +10,7 @@
 
 ### 
 
-### ⌨️ Work 
+### 👨‍💼 Work 
 
 * 👀 Looking for new roles
 * **Former**:
