@@ -7,22 +7,22 @@ Current:
 
 
 Former:
-* 💻 Engineering Lead @ [Mission Focus](https://missionfocus.com/) (15yr)
-* 💻 Software Engineer @ [DARPA](https://darpa.mil) (2yr)
-* 👨‍🎓 [American University](https://american.edu/) (CS '13)
+* 💻 Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a>(15yr)
+* 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a> (2yr)
+* 👨‍🎓 <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (CS '13)
 
 A lot of my work has been deployed in high security environments - so my contributions have been behind-the-scenes. I'm working on fixing that.
 
 ### 📐 I've been behind
-* 📷 [Studio CMS](https://studiocms.io/) - A photography CMS using Phoenix Live View, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
-* ☁️ [GDAC](https://www.meritalk.com/articles/nga-seeks-contractor-to-support-geoint-data-analytics-cloud/) - An Ultra Large Scale cloud framework deployed at National Geospatial Intelligence Agency
-* 🪖 [TransApps](https://en.wikipedia.org/wiki/TransApps) - A mobile application suite used by the US military
+* <a href="https://studiocms.io/" target="_blank" rel="noopener noreferrer">📷 StudioCMS</a> - A photography CMS using Phoenix Live View, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
+* <a href="https://www.meritalk.com/articles/nga-seeks-contractor-to-support-geoint-data-analytics-cloud/" target="_blank" rel="noopener noreferrer">☁️ GDAC</a> - An Ultra Large Scale cloud framework deployed at National Geospatial Intelligence Agency
+* <a href="https://en.wikipedia.org/wiki/TransApps" target="_blank" rel="noopener noreferrer">🪖 TransApps</a> - A mobile application suite used by the US military
 
 
 ### 💬 Contact 
-* Code: cam.cook.codes AT gmail
-* Opportunities: cam.cook.hire AT gmail
-*   <a href="https://mastodon.social/@scrum_log">
+* Code: <a href="mailto:cam.cook.codes@gmail.com" target="_blank" rel="noopener noreferrer">cam.cook.codes AT gmail</a>
+* Opportunities: <a href="mailto:cam.cook.hire@gmail.com" target="_blank" rel="noopener noreferrer">cam.cook.hire AT gmail</a>
+*   <a href="https://mastodon.social/@scrum_log" target="_blank" rel="noopener noreferrer">
     <img alt="Mastodon Follow" src="https://img.shields.io/badge/mastodon-%40scrum_log%40mastodon.social-purple?color=6364ff">
   </a>
 
