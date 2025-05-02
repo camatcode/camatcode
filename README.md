@@ -7,9 +7,9 @@ Current:
 
 
 Former:
-💻 Engineering Lead @ Mission Focus (15yr)
-💻 Software Engineer @ DARPA (2yr)
-👨‍🎓 American University (CS '13)
+* 💻 Engineering Lead @ Mission Focus (15yr)
+* 💻 Software Engineer @ DARPA (2yr)
+* 👨‍🎓 American University (CS '13)
 
 A lot of my work has been deployed in high security environments - so my contributions a little behind-the-scenes. I'm working on fixing that.
 
