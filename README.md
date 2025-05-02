@@ -2,11 +2,11 @@
 
 ### 
 
-<h3 align="center">
+<h4 align="center">
 ✨ FOSS tech and engineering guy 🏳️‍🌈
 
 📍 Washington, DC area
-</h3>
+</h4>
 
 ### 
 
