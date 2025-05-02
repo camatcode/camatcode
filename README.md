@@ -4,16 +4,15 @@
 
 📍 Washington, DC area
 
-Current:
+### ⌨️ Work 
+
+**Current**:
 👀 Looking for new roles
 
-
-Former:
+**Former**:
 * 💻 Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a> (15yr)
 * 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a> (2yr)
 * 🎓 <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (CS '13)
-
-A lot of my work has been deployed in high security environments - so my contributions have been behind-the-scenes. I'm working on fixing that.
 
 ### 📐 I've been behind
 * <a href="https://studiocms.io/" target="_blank" rel="noopener noreferrer">📷 StudioCMS</a> - A photography CMS using Phoenix Live View, Tailwind CSS, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
