@@ -17,5 +17,7 @@ Projects I'm Proud of:
 * 📷 [Studio CMS](https://studiocms.io/) - A photography CMS using Phoenix Live View, Elixir, Postgres, Supabase, Fly.io, Oban, Docker
 
 
+Code Contact: [cam.cook.codes AT gmail.com](mailto:cam.cook.codes@gmail.com]
+Opportunities Contact: [cam.cook.hire AT gmail.com](mailto:cam.cook.hire@gmail.com]
 
 Into: #engineering, #tech, #weaving, #knitting, #beekeeping, #photography, #elixir
