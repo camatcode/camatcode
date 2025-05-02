@@ -9,9 +9,9 @@ Current:
 
 
 Former:
-* <img src="https://missionfocus.com/favicon.ico" width="20"/> Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a> (15yr)
-* <img src="https://www.darpa.mil/themes/custom/darpa_uswds/assets/js/assets/DARPA_Draft_Logo_01_White.png" width="20"/> Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a> (2yr)
-* <img src="https://american.edu/favicon.ico" width="20"/> <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (CS '13)
+* 💻 Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a> (15yr)
+* 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a> (2yr)
+* 🎓 <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (CS '13)
 
 A lot of my work has been deployed in high security environments - so my contributions have been behind-the-scenes. I'm working on fixing that.
 
