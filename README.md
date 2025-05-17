@@ -10,9 +10,8 @@
 
 ### 
 
-### 👨‍💼 Work 
+### 👨‍💼 Professional Life 
 
-* 👀 Looking for new roles
 * **Former**:
   * 💻 Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a> (13yr)
   * 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a> (2yr)
