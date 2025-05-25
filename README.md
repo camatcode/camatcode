@@ -19,8 +19,9 @@
 
 ### 👨‍💼 Professional Life 
 
-* 💻 Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a> (13yr)
-* 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a> (2yr)
+* 📸 Founding Engineer @ <a href="https://studiocms.io/" target="_blank" rel="noopener noreferrer">StudioCMS</a>
+* 💻 Engineering Lead @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a>
+* 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a>
 * 🎓 <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (CS '13)
 
 ### 
