@@ -22,7 +22,7 @@
 * 📸 Senior Software Engineer @ <a href="https://studiocms.io/" target="_blank" rel="noopener noreferrer">StudioCMS</a>
 * 💻 Lead Engineer @ <a href="https://missionfocus.com/" target="_blank" rel="noopener noreferrer">Mission Focus</a>
 * 💻 Software Engineer @ <a href="https://darpa.mil/" target="_blank" rel="noopener noreferrer">DARPA</a>
-* 🎓 <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (CS '13)
+* 🎓 <a href="https://american.edu/" target="_blank" rel="noopener noreferrer">American University</a> (Computer Science '13)
 
 ### 
 
